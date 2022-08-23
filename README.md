@@ -1,5 +1,5 @@
 # Web-based database browser
-An implementation of a web-based database browser for a single database vendor only. The browser is able to register multiple database connections and performs CRUD operations above a particular database connection. 
+An implementation of the web-based database browser for a single database vendor only. The browser is able to register multiple database connections and performs CRUD operations above a particular database connection. 
 
 The REST API is designed, implemented and documented for a browsing structure and its data for the stored database connection.  
 
